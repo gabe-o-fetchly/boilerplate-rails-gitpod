@@ -1,5 +1,4 @@
-image:
-  file: .gitpod.Dockerfile
+image: gitpod/workspace-ruby-2
 
 ports:
   - name: Rails server
